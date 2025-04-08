@@ -102,8 +102,3 @@ After generating the token, you should see a screen like this:
 - Ensure **Docker** and **Jenkins** are installed and running on your machine
 ---
 
-Great question! That line can definitely be made clearer and more polished. Here's a cleaner and more informative version for your README:
-
----
-
-
